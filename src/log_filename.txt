@@ -1,0 +1,5 @@
+2015-12-02 15:31:39,859 - DEBUG - This is a test log message.
+2015-12-02 15:32:02,051 - DEBUG - This is a test log message.
+2015-12-02 15:35:20,772 - root -    DEBUG - This is a test log message.
+2015-12-02 15:36:06,631 - root - DEBUG    - This is a test log message.
+2015-12-02 15:36:18,639 - root     - DEBUG    - This is a test log message.
